@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Annalisa Taylor
+description: Ph.D. Candidate | Northwestern University | Center for Robotics and Biosystems
 
-baseurl: "/" #name of GitHub repository
-url: "https://atulletaylor.github.io" #custom url to be used instead of GitHub repository
+baseurl: "atulletaylor.github.io" #name of GitHub repository
+url: #"https://atulletaylor.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
