@@ -48,14 +48,13 @@
 }
 
 .rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
- /* color: #3b5998; */
-  color: $brand-color;
+  color: #3b5998; 
   background: #fefefe;
   border-color: #3b5998;
 }
 
 .rounded-social-buttons .social-button.twitter {
-  color: $brand-color;
+  color: $text-color;
   background: #55acee;
 }
 
@@ -66,7 +65,7 @@
 }
 
 .rounded-social-buttons .social-button.linkedin {
-  color: $brand-color;
+  color: $text-color;
   background: #007bb5;
 }
 
@@ -77,7 +76,7 @@
 }
 
 .rounded-social-buttons .social-button.github {
-  color: $brand-color;
+  color: $text-color;
   background: #000000;
 }
 
@@ -88,7 +87,7 @@
 }
 
 .rounded-social-buttons .social-button.email {
-  color: $brand-color;
+  color: $text-color;
   background: #60c17d;
 }
 
@@ -99,7 +98,7 @@
 }
 
 .rounded-social-buttons .social-button.orcid {
-  color: $brand-color;
+  color: $text-color;
   background: #a6ce3b;
 }
 
@@ -110,8 +109,8 @@
 }
 
 .rounded-social-buttons .social-button.researchgate {
-  color: $brand-color;
-  background: #5dd1b0;
+  background: $text-color;
+  /*#5dd1b0;*/
 }
 
 .rounded-social-buttons .social-button.researchgate:hover, .rounded-social-buttons .social-button.researchgate:focus {
